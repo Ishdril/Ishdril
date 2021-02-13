@@ -1,5 +1,6 @@
+![](/assets/sayHi.gif)
 
-Hi! I am a Software Developer from Barcelona, currently based in Berlin.
+Hi! I'm a Software Developer from Barcelona, currently based in Berlin.
 Well versed in JavaScript technologies and not affraid of getting my hands dirty with other programming languages.
 
 Some of my favourite technologies: <br>
