@@ -1,7 +1,7 @@
 ![](/assets/sayHi.gif)
 
 Hi! I'm a Software Developer from Barcelona, currently based in Berlin.
-Well versed in JavaScript technologies and not affraid of getting my hands dirty with other programming languages.
+Well versed in JavaScript technologies and not afraid of getting my hands dirty with other programming languages.
 
 Some of my favourite technologies: <br>
 <code><img height="40" alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
